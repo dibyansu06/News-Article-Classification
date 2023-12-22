@@ -30,8 +30,8 @@ Check more EDA Process in the [notebook](main_ipynb)
 
 ## Results
 
-![Base Model](images/results_1.png)
-![Tuned Models](images/results_2.png)
+![Base Model](images/result_1.png)
+![Tuned Models](images/result_2.png)
 
 ## Acknowledgment
 
