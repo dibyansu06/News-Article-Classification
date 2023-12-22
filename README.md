@@ -23,15 +23,15 @@ In addition to traditional models, a deep learning model has been employed for e
 
 ## Exploratory Data Analysis
 
-![Categories Count Per Doc In Train data][plot_1.png]
-![Most Frequent Character Occurence][plot_2.png]
+![Categories Count Per Doc In Train data](images/plot_1.png)
+![Most Frequent Character Occurence](images/plot_2.png)
 
-Check more EDA Process in the [notebook][main_ipynb]
+Check more EDA Process in the [notebook](main_ipynb)
 
 ## Results
 
-![Base Model][results_1.png]
-![Tuned Models][results_2.png]
+![Base Model](images/results_1.png)
+![Tuned Models](images/results_2.png)
 
 ## Acknowledgment
 
